@@ -22,10 +22,8 @@ An **advanced Tic Tac Toe game** built with Python’s `Tkinter` for GUI and `Py
 
 ## 📸 Preview
 
-*(You can add a screenshot or GIF here)*
-Example placeholder:
-
-![Game Screenshot](images/tic-tac-toe-preview.png)
+ ![Image Alt](https://github.com/tajulislamsaidul/Tic-Tac-Toe-Game/blob/0675be077b0e7aa3577b43db4ae084d189f9d32e/Demo/First%20Page.png)
+ ![Image Alt](https://github.com/tajulislamsaidul/Tic-Tac-Toe-Game/blob/0675be077b0e7aa3577b43db4ae084d189f9d32e/Demo/Game%20page.png)
 
 ---
 
