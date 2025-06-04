@@ -101,6 +101,6 @@ MIT License – feel free to use and modify.
 
 ## 🤝 Connect
 
-If you like this project or have ideas, feel free to connect on [LinkedIn](https://linkedin.com/in/your-link) or contribute on [GitHub](https://github.com/your-username/tic-tac-toe-gui)!
+If you like this project or have ideas, feel free to connect on [LinkedIn](https://www.linkedin.com/in/md-tajul-islam-saidul-86b2bb348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or contribute on [GitHub](https://github.com/tajulislamsaidul)!
 
 ---
