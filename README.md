@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe GUI – Python + AI + Sound Effects
 
-An **advanced Tic Tac Toe game** built with Python’s `Tkinter` for GUI and `Pygame` for immersive sound effects. This version supports **Player vs Player** and **Player vs Computer** with **difficulty levels**, responsive controls, and a smooth, professional interface. Ideal for game development learners or Python enthusiasts!
+An **advanced Tic Tac Toe game** built with Python `Tkinter` for GUI and `Pygame` for immersive sound effects. This version supports **Player vs Player** and **Player vs Computer** with **difficulty levels**, responsive controls, and a smooth, professional interface. Ideal for game development learners or Python enthusiasts!
 
 ---
 
