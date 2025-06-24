@@ -5,8 +5,6 @@ import os
 import pygame
 
 pygame.mixer.init()
-
-# Sound effect paths
 SOUND_FOLDER = r"E:\Tic Tac Toe Game with GUI\Sound Effects"
 WIN_SOUND = os.path.join(SOUND_FOLDER, "win.mp3")
 DRAW_SOUND = os.path.join(SOUND_FOLDER, "draw.mp3")
